@@ -1,0 +1,46 @@
+nav ul{
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    font-family: Arial;
+    font-size: 11px;
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+    background-color:#7730a0;
+    color: #fff;
+}
+
+nav ul li a:hover {
+    background-color: #a13eda;
+    margin-top: .2px;
+    padding-bottom: 12px;
+}
+
+#asd{
+    float: right;
+}
+
+section{
+    float: left;
+    width: 70%;
+}
+
+#formacion{
+    float: left;
+    width: 50%;
+}
+
+#experiencia{
+    float: left;
+    width: 50%;
+}
+
+footer {
+    clear: both;
+}
